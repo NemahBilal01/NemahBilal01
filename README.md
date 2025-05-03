@@ -3,7 +3,7 @@
 <h1 align="center" style="color: #F8D800;">Hi, I'm Nemah Bilal</h1>
 
 <p align="center">
-  <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdzcTlvZDN4b3VhN2Z2Z2V0OTg4NjJ0NjM1OXhiMnR5eXl2dnhtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" alt="Animated GIF" width="100" height="100"/>
+  <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FlZmRlcDJhNzdkaDF5czhhczl4bjZ2Mm1peG8wZnRvZ2s3dzYzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Animated GIF" width="300" height="300"/>
 </p>
 
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
