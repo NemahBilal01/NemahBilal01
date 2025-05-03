@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=default&hide_border=false&background=FFFFFF&icon_color=5C3A5E&title_color=5C3A5E&text_color=FFB2C8" alt="GitHub Stats" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&layout=compact&theme=default&hide_border=false&background=FFFFFF&title_color=5C3A5E&text_color=FFB2C8&border_color=5C3A5E" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&layout=compact&theme=default&hide_border=false&background=FFFFFF&title_color=5C3A5E&text_color=5C3A5E&border_color=5C3A5E" alt="Top Langs" />
 </p>
 
 
