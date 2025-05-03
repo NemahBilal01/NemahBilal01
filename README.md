@@ -28,7 +28,7 @@
         <p class="text1">I started learning to code when I was 18 years old because I wanted to make my own video games. 
             Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
       </div>
-    
+    </div>
 
     <div class="Workingcard">
       <div calss ="Workingimg">
@@ -41,7 +41,9 @@
       </div>
     </div>
   </div>
-</div>
+
+
+
 ---
 
 <h3 align="center" style="color: #F8D800;">Languages & Tools</h3>
