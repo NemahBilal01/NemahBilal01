@@ -3,7 +3,7 @@
 <h3 align="center" style="color: #A891D6;font-family:"Arial">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Shark-5C3A5E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" width="150px" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-5C3A5E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" width="180px" />
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
