@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm **Nemah Bilal Obaid**</h1>
+<h1 align="center" style="color: #F8D800;">Hi, I'm Nemah Bilal</h1>
 
-<h3 align="center">💻 Passionate Full-Stack Developer | Creating Seamless User Experiences & Scalable Web Applications</h3>
+<h3 align="center" style="color: #A891D6;">Passionate Full-Stack Developer | Creating Seamless User Experiences & Scalable Web Applications</h3>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-%237d00ff.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" />
@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">🔗 Connect with Me:</h3>
+<h3 align="center" style="color: #A891D6;">Connect with Me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nameh-bilal/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -23,9 +23,8 @@
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+<h3 align="left" style="color: #F8D800;">Languages & Tools:</h3>
 <p align="left">
-  <!-- Add your favorite tech logos here -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -51,7 +50,7 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center" style="color: #A891D6;">GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nemahbilal01&theme=radical&column=4&margin-w=15&margin-h=15" alt="nemahbilal01 trophies"/>
@@ -60,7 +59,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center" style="color: #A891D6;">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -71,4 +70,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+</p> 
