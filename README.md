@@ -29,17 +29,20 @@
 <h3 align="center" style="color: #A891D6;">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nameh-bilal/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://github.com/user-attachments/assets/2b76f0bd-9997-40df-9f03-1d3669bb72be" alt="LinkedIn" height="30" width="40" />
+
   </a>
   <a href="https://instagram.com/nana_bilall" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://github.com/user-attachments/assets/e81d9231-d76d-476a-9203-896c10b9a1d7" alt="Instagram" height="30" width="40" />
+
   </a>
   <a href="https://discord.gg/nana8404" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img align="center" src="https://github.com/user-attachments/assets/212d3450-954e-4a03-acbb-389d0f488ae8" alt="Discord" height="30" width="40" />
+
   </a>
+  ---
 </p>
 <p align="center">
-
   <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FlZmRlcDJhNzdkaDF5czhhczl4bjZ2Mm1peG8wZnRvZ2s3dzYzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Animated GIF" width="300" height="300"/>
 </p>
 </body>
