@@ -23,7 +23,8 @@
       <div calss ="Designimg">
         <img src="./assets/code.gif">
       </div>
-      <div class="Design">
+      <div style="border: none;
+    text-align: left;">
         <h3>Design & Development</h3>
         <p class="text1">I started learning to code when I was 18 years old because I wanted to make my own video games. 
             Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
@@ -33,7 +34,10 @@
       <div calss ="Workingimg">
         <img src="assets/design.gif" >
       </div>
-      <div class="Working">
+      <div style="display: grid;
+    grid-template-columns: 300px 500px;
+    grid-template-rows: 300px 1fr;
+    gap: 20px;">
         <h3>Working under pressure</h3>
         <p class="text1">Actually, I am considered a patient person and I can handle pressure,
            not always, but I think I am a patient person🙄🤗</p>
