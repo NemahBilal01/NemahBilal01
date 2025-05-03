@@ -4,9 +4,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R4aDU4MG55amtvdHl0cHNhbmx4cmR5cXgwZ3V6Y2JtcGVqcGYwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SILTTnZ7qHX2Y6Oqtm/giphy.gif" alt="Animated GIF" width="100" height="100"/>
 </div>
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R4aDU4MG55amtvdHl0cHNhbmx4cmR5cXgwZ3V6Y2JtcGVqcGYwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SILTTnZ7qHX2Y6Oqtm/giphy.gif" alt="Animated GIF" width="100" height="100"/>
-</div>
-
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
 <p align="center">
