@@ -16,11 +16,10 @@
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemahbilal01&theme=default&hide_border=false&background=FFFFFF&ring=5C3A5E&fire=5C3A5E&stroke=5C3A5E&currStreakLabel=FFB2C8" alt="GitHub Streak" />
-
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=default&hide_border=false&background=FFFFFF&icon_color=5C3A5E&title_color=FFB2C8&text_color=FFB2C8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=default&hide_border=false&background=FFFFFF&icon_color=5C3A5E&title_color=5C3A5E&text_color=FFB2C8" alt="GitHub Stats" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false&background=FFFFFF" alt="Top Langs" />
