@@ -1,6 +1,6 @@
 <body>
 <img src= "https://github.com/user-attachments/assets/03419c46-1a3b-4424-bdad-fe9333ef8824"/>
-<h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
+<h3 align="center" style="color: #A891D6;font-family:"Arial">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-%237d00ff.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" width="150px" />
@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=default&hide_border=true&background=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=default&hide_border=false&background=FFFFFF" alt="GitHub Stats" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&background=FFFFFF" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false&background=FFFFFF" alt="Top Langs" />
 </p>
 
 
