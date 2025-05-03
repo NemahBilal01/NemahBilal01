@@ -2,11 +2,6 @@
 <img src= "https://github.com/user-attachments/assets/03419c46-1a3b-4424-bdad-fe9333ef8824"/>
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
-
-<p align="center">
-
-  <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FlZmRlcDJhNzdkaDF5czhhczl4bjZ2Mm1peG8wZnRvZ2s3dzYzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Animated GIF" width="300" height="300"/>
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-%237d00ff.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" />
 </p>
@@ -15,6 +10,10 @@
   <img src="https://github.com/user-attachments/assets/46a34344-d3a9-4868-905f-92ea84371af8" height="1000px"/>
 </div>
 
+<p align="center">
+
+  <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FlZmRlcDJhNzdkaDF5czhhczl4bjZ2Mm1peG8wZnRvZ2s3dzYzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Animated GIF" width="300" height="300"/>
+</p>
 
 <h3 align="center" style="color: #A891D6;">GitHub Trophies</h3>
 <p align="center">
