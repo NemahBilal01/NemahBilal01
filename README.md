@@ -1,6 +1,5 @@
 <h1 align="center" style="color: #F8D800;">Hi, I'm Nemah Bilal</h1>
 
-<!-- Adding the GIF in the top-right corner -->
 <div style="position: absolute; top: 10px; right: 10px; z-index: 10;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R4aDU4MG55amtvdHl0cHNhbmx4cmR5cXgwZ3V6Y2JtcGVqcGYwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SILTTnZ7qHX2Y6Oqtm/giphy.gif" alt="Animated GIF" width="100" height="100"/>
 </div>
