@@ -12,7 +12,7 @@
 </p>
 
 ---
-<h3 align="center" style="color: #A891D6;">Connect with Me:</h3>
+<h3 align="center" style="color: #A891D6;">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nameh-bilal/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -27,8 +27,8 @@
 
 ---
 
-<h3 align="left" style="color: #F8D800;">Languages & Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
+<h3 align="center" style="color: #F8D800;">Languages & Tools</h3>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
