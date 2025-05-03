@@ -1,5 +1,10 @@
 <h1 align="center" style="color: #F8D800;">Hi, I'm Nemah Bilal</h1>
 
+<!-- Adding the GIF in the top-right corner -->
+<div style="position: absolute; top: 10px; right: 10px; z-index: 10;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R4aDU4MG55amtvdHl0cHNhbmx4cmR5cXgwZ3V6Y2JtcGVqcGYwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SILTTnZ7qHX2Y6Oqtm/giphy.gif" alt="Animated GIF" width="100" height="100"/>
+</div>
+
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
 <p align="center">
@@ -47,7 +52,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
-
 
 ---
 
