@@ -19,27 +19,33 @@
     justify-content: center;
     align-items: center;">
     <h2 style="font-family:serif; color: #8464a0; margin-bottom: 80px;font-size: 60px;">My Skills</h2>
-    <div class="Designcard">
-      <div calss ="Designimg">
-        <img src="./assets/code.gif">
+    <div style="display: grid;
+    grid-template-columns: 300px 500px;
+    grid-template-rows: 300px 1fr;
+    gap: 20px;">
+      <div style ="width: 45%;">
+        <img src="https://github.com/user-attachments/assets/69be3a52-7cd9-4a24-8cfb-9a331063a3fe">
       </div>
       <div style="border: none;
     text-align: left;">
         <h3>Design & Development</h3>
-        <p class="text1">I started learning to code when I was 18 years old because I wanted to make my own video games. 
+        <p style="font-size: 20px;
+    padding-top: 20px;">I started learning to code when I was 18 years old because I wanted to make my own video games. 
             Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
       </div>
     </div>
-    <div class="Workingcard">
-      <div calss ="Workingimg">
-        <img src="assets/design.gif" >
-      </div>
-      <div style="display: grid;
+    <div style="display: grid;
     grid-template-columns: 300px 500px;
     grid-template-rows: 300px 1fr;
     gap: 20px;">
+      <div style="width: 45%;">
+        <img src="https://github.com/user-attachments/assets/53c3f789-97ec-4c3f-bd9d-e44f20f7eeb3" >
+      </div>
+      <div style="border: none;
+    text-align: left;">
         <h3>Working under pressure</h3>
-        <p class="text1">Actually, I am considered a patient person and I can handle pressure,
+        <p style="font-size: 20px;
+    padding-top: 20px;">Actually, I am considered a patient person and I can handle pressure,
            not always, but I think I am a patient person🙄🤗</p>
       </div>
     </div>
