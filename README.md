@@ -1,5 +1,5 @@
-<body>
-<style>
+<head>
+  <style>
   .skills-container{
     display:flex;
     flex-direction: column;
@@ -8,6 +8,9 @@
     align-items: center;
 }
 </style>
+</head>
+<body>
+
 <img src= "https://github.com/user-attachments/assets/7661c830-7224-4df0-8fe3-a8b19fe1893c"/>
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
