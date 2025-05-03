@@ -1,14 +1,3 @@
-<head>
-  <style>
-  .skills-container{
-    display:flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;
-}
-</style>
-</head>
 <body>
 
 <img src= "https://github.com/user-attachments/assets/7661c830-7224-4df0-8fe3-a8b19fe1893c"/>
@@ -24,7 +13,11 @@
 </p>
 
 ---
-<div class="skills-container">
+<div style="display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;">
     <h2 style="font-family:serif; color: #8464a0; margin-bottom: 80px;font-size: 60px;">My Skills</h2>
     <div class="Designcard">
       <div calss ="Designimg">
