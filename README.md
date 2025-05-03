@@ -54,7 +54,7 @@
     grid-template-columns: 300px 500px;
     grid-template-rows: 300px 1fr;
     gap: 20px;">
-      <div style ="width: 45%;">
+      <div style ="width: 45%;align:left;">
         <img src="https://github.com/user-attachments/assets/2f9d3190-fbd9-419d-b0cb-228065a8329b">
       </div>
       <div style="border: none;
