@@ -49,8 +49,9 @@
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: center;
-    align-items: center;">
-    <h2 style="font-family:serif; color: #8464a0; margin-bottom: 80px;font-size: 60px;">My Skills</h2>
+    align-items: center;
+  font-family:Arial;">
+    <h2 style=" color: #8464a0; margin-bottom: 80px;font-size: 60px;">My Skills</h2>
     <div style="display: grid;
     grid-template-columns: 300px 500px;
     grid-template-rows: 300px 1fr;
@@ -60,7 +61,9 @@
       </div>
       <div style="border: none;
     text-align: right;">
-        <h3>Design & Development</h3>
+        <h3 style="font-size: 40px;
+    color: #e6a4d5;
+    font-weight: bold;" >Design & Development</h3>
         <p style="font-size: 20px;
     padding-top: 20px;
           ">I started learning to code when I was 18 years old because I wanted to make my own video games. 
@@ -76,7 +79,9 @@
       </div>
       <div style="border: none;
     text-align: left;">
-        <h3>Working under pressure</h3>
+        <h3 style="font-size: 40px;
+    color: #e6a4d5;
+    font-weight: bold;">Working under pressure</h3>
         <p style="font-size: 20px;
     padding-top: 20px;">Actually, I am considered a patient person and I can handle pressure,
            not always, but I think I am a patient person🙄🤗</p>
