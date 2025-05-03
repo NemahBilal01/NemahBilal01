@@ -28,13 +28,13 @@
 
 <h3 align="center" style="color: #A891D6;">Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nameh-bilal/" target="blank">
+  <a href="https://www.linkedin.com/in/nameh-bilal/" target="blank" decoration="none">
     <img align="center" src="https://github.com/user-attachments/assets/2b76f0bd-9997-40df-9f03-1d3669bb72be" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://instagram.com/nana_bilall" target="blank">
     <img align="center" src="https://github.com/user-attachments/assets/e81d9231-d76d-476a-9203-896c10b9a1d7" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://discord.gg/nana8404" target="blank">
+  <a href="https://discord.gg/nana8404" target="blank" decoration="none" decoration="none">
     <img align="center" src="https://github.com/user-attachments/assets/212d3450-954e-4a03-acbb-389d0f488ae8" alt="Discord" height="40" width="40" />
   </a>
  <br>
