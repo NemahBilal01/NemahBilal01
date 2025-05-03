@@ -44,48 +44,34 @@
 </p>
 <br>
 
+<h2 align="center" style="color:#8464a0; font-size: 40px;">My Skills</h2>
 
-<div style="display:flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;
-  font-family:Arial;">
-    <h2 style=" color: #8464a0; margin-bottom: 80px;font-size: 60px;">My Skills</h2>
-    <div style="display: grid;
-    grid-template-columns: 300px 500px;
-    grid-template-rows: 300px 1fr;
-    gap: 20px;">
-      <div style ="width: 45%;align:left;">
-        <img src="https://github.com/user-attachments/assets/2f9d3190-fbd9-419d-b0cb-228065a8329b">
-      </div>
-      <div style="border: none;
-    text-align: right;">
-        <h3 style="font-size: 40px;
-    color: #e6a4d5;
-    font-weight: bold;" >Design & Development</h3>
-        <p style="font-size: 20px;
-    padding-top: 20px;
-          ">I started learning to code when I was 18 years old because I wanted to make my own video games. 
-            Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
-      </div>
-    </div>
-    <div style="display: grid;
-    grid-template-columns: 300px 500px;
-    grid-template-rows: 300px 1fr;
-    gap: 20px;">
-      <div style ="width: 45%;">
-        <img src="https://github.com/user-attachments/assets/738c5471-af25-48a7-864a-0ef1bdf62771" >
-      </div>
-      <div style="border: none;
-    text-align: left;">
-        <h3 style="font-size: 40px;
-    color: #e6a4d5;
-    font-weight: bold;">Working under pressure</h3>
-        <p style="font-size: 20px;
-    padding-top: 20px;">Actually, I am considered a patient person and I can handle pressure,
-           not always, but I think I am a patient person🙄🤗</p>
-      </div>
-    </div>
-  </div>
+<!-- Design & Development Section -->
+<table align="center">
+  <tr>
+    <td align="left" width="300">
+      <img src="https://github.com/user-attachments/assets/2f9d3190-fbd9-419d-b0cb-228065a8329b" width="100%" />
+    </td>
+    <td align="left" width="500">
+      <h3 style="color:#e6a4d5;">Design & Development</h3>
+      <p>I started learning to code when I was 18 years old because I wanted to make my own video games. Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Working Under Pressure Section -->
+<table align="center">
+  <tr>
+    <td align="left" width="300">
+      <img src="https://github.com/user-attachments/assets/738c5471-af25-48a7-864a-0ef1bdf62771" width="100%" />
+    </td>
+    <td align="left" width="500">
+      <h3 style="color:#e6a4d5;">Working Under Pressure</h3>
+      <p>Actually, I am considered a patient person, and I can handle pressure, not always, but I think I am a patient person 🙄🤗</p>
+    </td>
+  </tr>
+</table>
+
 </body>
