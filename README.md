@@ -42,4 +42,46 @@
 <p align="center">
   <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FlZmRlcDJhNzdkaDF5czhhczl4bjZ2Mm1peG8wZnRvZ2s3dzYzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Animated GIF" width="300" height="300"/>
 </p>
+<br>
+
+<div style="display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;">
+    <h2 style="font-family:serif; color: #8464a0; margin-bottom: 80px;font-size: 60px;">My Skills</h2>
+    <div style="display: grid;
+    grid-template-columns: 300px 500px;
+    grid-template-rows: 300px 1fr;
+    gap: 20px;">
+      <div style ="width: 45%;">
+        <img src="https://github.com/user-attachments/assets/2f9d3190-fbd9-419d-b0cb-228065a8329b">
+
+      </div>
+      <div style="border: none;
+    text-align: left;">
+        <h3>Design & Development</h3>
+        <p style="font-size: 20px;
+    padding-top: 20px;">I started learning to code when I was 18 years old because I wanted to make my own video games. 
+            Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
+      </div>
+    </div>
+
+    <div style="display: grid;
+    grid-template-columns: 300px 500px;
+    grid-template-rows: 300px 1fr;
+    gap: 20px;">
+      <div style ="width: 45%;">
+        <img src="https://github.com/user-attachments/assets/738c5471-af25-48a7-864a-0ef1bdf62771" >
+
+      </div>
+      <div style="border: none;
+    text-align: left;">
+        <h3>Working under pressure</h3>
+        <p style="font-size: 20px;
+    padding-top: 20px;">Actually, I am considered a patient person and I can handle pressure,
+           not always, but I think I am a patient person🙄🤗</p>
+      </div>
+    </div>
+  </div>
 </body>
