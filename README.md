@@ -1,8 +1,11 @@
+<body style="background-color: #FF0000;">
 
 <h1 align="center" style="color: #F8D800;">Hi, I'm Nemah Bilal</h1>
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R4aDU4MG55amtvdHl0cHNhbmx4cmR5cXgwZ3V6Y2JtcGVqcGYwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SILTTnZ7qHX2Y6Oqtm/giphy.gif" alt="Animated GIF" width="100" height="100"/>
 </p>
+
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
 <p align="center">
@@ -10,7 +13,6 @@
 </p>
 
 ---
-
 <h3 align="center" style="color: #A891D6;">Connect with Me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nameh-bilal/" target="blank">
@@ -73,4 +75,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p> 
+</p>
+
+</body>
