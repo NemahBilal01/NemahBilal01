@@ -10,11 +10,7 @@
   <img src="https://github.com/user-attachments/assets/46a34344-d3a9-4868-905f-92ea84371af8" height="1000px"/>
 </div>
 
-<p align="center">
-
-  <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FlZmRlcDJhNzdkaDF5czhhczl4bjZ2Mm1peG8wZnRvZ2s3dzYzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Animated GIF" width="300" height="300"/>
-</p>
-
+---
 <h3 align="center" style="color: #A891D6;">GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -49,5 +45,9 @@
   <a href="https://discord.gg/nana8404" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
+</p>
+<p align="center">
+
+  <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FlZmRlcDJhNzdkaDF5czhhczl4bjZ2Mm1peG8wZnRvZ2s3dzYzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Animated GIF" width="300" height="300"/>
 </p>
 </body>
