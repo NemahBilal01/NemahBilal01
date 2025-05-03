@@ -10,16 +10,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-%237d00ff.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" />
 </p>
----
 
-
-
-
----
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/46a34344-d3a9-4868-905f-92ea84371af8" height="1000px"/>
 </div>
----
+
 
 <h3 align="center" style="color: #A891D6;">GitHub Trophies</h3>
 <p align="center">
