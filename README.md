@@ -7,7 +7,7 @@
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/46a34344-d3a9-4868-905f-92ea84371af8" height="680px"/>
+  <img src="https://github.com/user-attachments/assets/c196b282-d759-4aad-991e-e488ff6ddf9c" height="680px"/>
 </div>
 
 ---
