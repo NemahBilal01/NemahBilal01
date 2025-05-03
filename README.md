@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=default&hide_border=true&background=FFFFFF" alt="GitHub Stats" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&background=FFFFFF" alt="Top Langs" />
 </p>
 
 
