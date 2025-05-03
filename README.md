@@ -1,4 +1,4 @@
-<body>
+<body style="background-color:"#000000">
 <img src= "https://github.com/user-attachments/assets/03419c46-1a3b-4424-bdad-fe9333ef8824"/>
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
