@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nemah Bilal Obaid</h1>
+<h1 align="center">Hi 👋, I'm **Nemah Bilal Obaid**</h1>
 
-<h3 align="center">💻 A Passionate Full-Stack Developer</h3>
+<h3 align="center">💻 Passionate Full-Stack Developer | Creating Seamless User Experiences & Scalable Web Applications</h3>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-%237d00ff.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" />
@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">🔗 Connect with Me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nameh-bilal/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
