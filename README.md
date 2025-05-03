@@ -1,9 +1,54 @@
-<body style="background-color: #FF0000;">
+<style>
+  body {
+    background-color: #FF0000;
+    animation: backgroundColorChange 5s infinite alternate;
+  }
+
+  .animated-gif {
+    animation: bounce 2s infinite;
+  }
+
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  .contribution-graph {
+    animation: fadeInGraph 2s ease-in-out;
+  }
+
+  @keyframes fadeInGraph {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  @keyframes backgroundColorChange {
+    0% {
+      background-color: #FF0000;
+    }
+    50% {
+      background-color: #F8D800;
+    }
+    100% {
+      background-color: #FF0000;
+    }
+  }
+</style>
+
+<body>
 
 <h1 align="center" style="color: #F8D800;">Hi, I'm Nemah Bilal</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R4aDU4MG55amtvdHl0cHNhbmx4cmR5cXgwZ3V6Y2JtcGVqcGYwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SILTTnZ7qHX2Y6Oqtm/giphy.gif" alt="Animated GIF" width="100" height="100"/>
+  <img class="animated-gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R4aDU4MG55amtvdHl0cHNhbmx4cmR5cXgwZ3V6Y2JtcGVqcGYwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SILTTnZ7qHX2Y6Oqtm/giphy.gif" alt="Animated GIF" width="100" height="100"/>
 </p>
 
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
@@ -56,7 +101,7 @@
 ---
 
 <h3 align="center" style="color: #A891D6;">GitHub Trophies</h3>
-<p align="center">
+<p align="center" class="contribution-graph">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nemahbilal01&theme=radical&column=4&margin-w=15&margin-h=15" alt="nemahbilal01 trophies"/>
   </a>
@@ -75,9 +120,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="your-animated-contribution-graph.gif" alt="Contribution Graph" />
 </p>
 
 </body>
