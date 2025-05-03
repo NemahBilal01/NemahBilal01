@@ -44,12 +44,8 @@
 </p>
 <br>
 
-<div style="display:flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;">
-    <h2 style="font-family:serif; color: #8464a0; margin-bottom: 80px;font-size: 60px;">My Skills</h2>
+<div>
+    <h2 style="font-family:serif; color: #8464a0; margin-bottom: 80px;font-size: 60px;align="center">My Skills</h2>
     <div style="display: grid;
     grid-template-columns: 300px 500px;
     grid-template-rows: 300px 1fr;
