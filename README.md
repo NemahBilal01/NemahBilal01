@@ -56,7 +56,6 @@
     gap: 20px;">
       <div style ="width: 45%;">
         <img src="https://github.com/user-attachments/assets/2f9d3190-fbd9-419d-b0cb-228065a8329b">
-
       </div>
       <div style="border: none;
     text-align: left;">
@@ -66,14 +65,12 @@
             Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
       </div>
     </div>
-
     <div style="display: grid;
     grid-template-columns: 300px 500px;
     grid-template-rows: 300px 1fr;
     gap: 20px;">
       <div style ="width: 45%;">
         <img src="https://github.com/user-attachments/assets/738c5471-af25-48a7-864a-0ef1bdf62771" >
-
       </div>
       <div style="border: none;
     text-align: left;">
