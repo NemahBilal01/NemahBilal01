@@ -1,5 +1,13 @@
 <body>
-
+<style>
+  .skills-container{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+</style>
 <img src= "https://github.com/user-attachments/assets/7661c830-7224-4df0-8fe3-a8b19fe1893c"/>
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
@@ -13,18 +21,30 @@
 </p>
 
 ---
-<h3 align="center" style="color: #A891D6;">Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/nameh-bilal/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/nana_bilall" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/nana8404" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+<div class="skills-container">
+    <h2 style="font-family:serif; color: #8464a0; margin-bottom: 80px;font-size: 60px;">My Skills</h2>
+    <div class="Designcard">
+      <div calss ="Designimg">
+        <img src="./assets/code.gif">
+      </div>
+      <div class="Design">
+        <h3>Design & Development</h3>
+        <p class="text1">I started learning to code when I was 18 years old because I wanted to make my own video games. 
+            Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
+      </div>
+    </div>
+
+    <div class="Workingcard">
+      <div calss ="Workingimg">
+        <img src="assets/design.gif" >
+      </div>
+      <div class="Working">
+        <h3>Working under pressure</h3>
+        <p class="text1">Actually, I am considered a patient person and I can handle pressure,
+           not always, but I think I am a patient person🙄🤗</p>
+      </div>
+    </div>
+  </div>
 
 ---
 
@@ -77,4 +97,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemahbilal01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
+
+<h3 align="center" style="color: #A891D6;">Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nameh-bilal/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/nana_bilall" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/nana8404" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
 </body>
