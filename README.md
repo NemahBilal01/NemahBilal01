@@ -47,9 +47,9 @@
 <h3 align="center" style="color:#8464a0;">My Skills</h3>
 
 <!-- Design & Development Section -->
-<table align="center">
+<table align="center" border="0px">
   <tr>
-    <td align="left" width="300">
+    <td align="center" width="300">
       <img src="https://github.com/user-attachments/assets/2f9d3190-fbd9-419d-b0cb-228065a8329b" width="80%" />
     </td>
     <td align="left" width="500">
@@ -64,7 +64,7 @@
 <!-- Working Under Pressure Section -->
 <table align="center">
   <tr>
-    <td align="left" width="300">
+    <td align="center" width="300">
       <img src="https://github.com/user-attachments/assets/738c5471-af25-48a7-864a-0ef1bdf62771" width="80%" />
     </td>
     <td align="left" width="500">
