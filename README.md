@@ -1,7 +1,7 @@
 <body>
 
 <h1 align="center" style="color: #F8D800;">Hi, I'm Nemah Bilal</h1>
-
+<img class="animated-gif" src="C:\Users\LEGION\Desktop\Screenshot 2025-05-03 201032.png" alt="Animated GIF" width="300" height="300"/>
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
 <p align="center">
