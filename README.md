@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nemah Bilal Obaid</h1>
 
 <h3 align="center">💻 A Passionate Full-Stack Developer</h3>
-<hr>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-%237d00ff.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" />
 </p>
