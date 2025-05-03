@@ -58,11 +58,11 @@
         <img src="https://github.com/user-attachments/assets/2f9d3190-fbd9-419d-b0cb-228065a8329b">
       </div>
       <div style="border: none;
-    text-align: left;">
+    text-align: right;">
         <h3>Design & Development</h3>
         <p style="font-size: 20px;
     padding-top: 20px;
-          align:rigt;">I started learning to code when I was 18 years old because I wanted to make my own video games. 
+          ">I started learning to code when I was 18 years old because I wanted to make my own video games. 
             Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
       </div>
     </div>
