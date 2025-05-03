@@ -29,7 +29,6 @@
             Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
       </div>
     </div>
-
     <div class="Workingcard">
       <div calss ="Workingimg">
         <img src="assets/design.gif" >
