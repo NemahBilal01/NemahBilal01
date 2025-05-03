@@ -1,10 +1,11 @@
 <body>
 
 <h1 align="center" style="color: #F8D800;">Hi, I'm Nemah Bilal</h1>
-<img class="animated-gif" src="C:\Users\LEGION\Desktop\Screenshot 2025-05-03 201032.png" alt="Animated GIF" width="300" height="300"/>
+<img src= "https://github.com/user-attachments/assets/02548600-80be-4b9a-b09e-d0be084f3d83"/>
 <h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
 <p align="center">
+
   <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FlZmRlcDJhNzdkaDF5czhhczl4bjZ2Mm1peG8wZnRvZ2s3dzYzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Animated GIF" width="300" height="300"/>
 </p>
 <p align="center">
