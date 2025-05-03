@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #F8D800;">Hi, I'm Nemah Bilal</h1>
 
-<h3 align="center" style="color: #A891D6;">Passionate Full-Stack Developer | Creating Seamless User Experiences & Scalable Web Applications</h3>
+<h3 align="center" style="color: #A891D6;">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-%237d00ff.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" />
