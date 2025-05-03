@@ -47,7 +47,7 @@
 <h3 align="center" style="color:#8464a0;">My Skills</h3>
 
 <!-- Design & Development Section -->
-<table align="center" style="border: 0px solid white;">
+<table align="center" style="border: 1px solid white;">
   <tr>
     <td align="center" width="300">
       <img src="https://github.com/user-attachments/assets/2f9d3190-fbd9-419d-b0cb-228065a8329b" width="80%" />
