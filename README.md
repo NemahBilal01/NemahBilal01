@@ -35,7 +35,8 @@
 <table align="center" style="border: 1px solid white;">
   <tr>
     <td align="center" width="300">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk0c2JpNTVnaG83cGF4dWZwemJhNzE1MzZhbzkxbmN0eHRpcW1maCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" width="90%" />
+      <img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="90%" />
+
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Design & Development</h3>
@@ -50,7 +51,7 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlwdGxmNmRoeWoxcWd2dDQ4ZzhwN2J1cDZ6Zmt6MTRwZXc4cnQ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex73AUevNVVoPw4/giphy.gif" width="90%" />
+      <img src="https://github.com/user-attachments/assets/409d5a77-5883-4ceb-858a-654fda5382ab" width="90%" />
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Working Under Pressure</h3>
