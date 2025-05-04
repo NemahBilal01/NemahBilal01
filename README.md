@@ -48,7 +48,7 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="https://github.com/user-attachments/assets/2f9d3190-fbd9-419d-b0cb-228065a8329b" width="90%" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlwdGxmNmRoeWoxcWd2dDQ4ZzhwN2J1cDZ6Zmt6MTRwZXc4cnQ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex73AUevNVVoPw4/giphy.gif" width="90%" />
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Working Under Pressure</h3>
