@@ -59,6 +59,19 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="https://github.com/user-attachments/assets/df21d5f1-44e1-441a-a95f-ed1369f8cc80" width="90%" />
+
+    </td>
+    <td align="left" width="500">
+      <h3 style="color:#e6a4d5;">Hard work</h3>
+      <p>I'm a hardworking individual who believes in consistent effort and continuous learning. I'm staying focused under pressure and always pushing myself to deliver high-quality results.</p>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center" style="color: #5C3A5E;">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nameh-bilal/"style="text-decoration:none;">
