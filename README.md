@@ -39,7 +39,7 @@
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Design & Development</h3>
-      <p>I started learning to code when I was 18 years old because I wanted to make my own video games. Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
+      <p>I began my journey with design using React to create dynamic, responsive interfaces. Over time, I advanced in backend development with Laravel, building powerful and scalable web applications..</p>
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Working Under Pressure</h3>
-      <p>Actually, I am considered a patient person, and I can handle pressure, not always, but I think I am a patient person 🙄🤗</p>
+      <p>I am generally considered a patient individual, capable of handling pressure effectively. I strive to remain calm and composed in challenging situations.</p>
     </td>
   </tr>
 </table>
