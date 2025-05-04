@@ -63,7 +63,6 @@
   <tr>
     <td align="center" width="300">
       <img src="https://github.com/user-attachments/assets/d6aa60c2-d2df-46c8-a83b-a376b27cd879" width="80%" />
-
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Hard work</h3>
