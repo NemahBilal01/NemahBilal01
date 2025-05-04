@@ -36,7 +36,6 @@
   <tr>
     <td align="center" width="300">
       <img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="90%" />
-
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Design & Development</h3>
