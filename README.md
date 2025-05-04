@@ -35,7 +35,7 @@
 <table align="center" style="border: 1px solid white;">
   <tr>
     <td align="center" width="300">
-      <img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="90%" />
+      <img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="80%" />
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Design & Development</h3>
@@ -50,7 +50,7 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="https://github.com/user-attachments/assets/409d5a77-5883-4ceb-858a-654fda5382ab" width="90%" />
+      <img src="https://github.com/user-attachments/assets/409d5a77-5883-4ceb-858a-654fda5382ab" width="80%" />
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Working Under Pressure</h3>
@@ -62,8 +62,7 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="https://github.com/user-attachments/assets/df21d5f1-44e1-441a-a95f-ed1369f8cc80" width="90%" />
-
+      <img src="https://github.com/user-attachments/assets/df21d5f1-44e1-441a-a95f-ed1369f8cc80" width="80%" />
     </td>
     <td align="left" width="500">
       <h3 style="color:#e6a4d5;">Hard work</h3>
