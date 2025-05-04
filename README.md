@@ -1,5 +1,6 @@
 <body>
-<img src= "https://github.com/user-attachments/assets/03419c46-1a3b-4424-bdad-fe9333ef8824"/>
+<img src= "https://github.com/user-attachments/assets/8a3af8f3-2216-4c1b-8fd8-212d3eae1a24"/>
+
 <h3 align="center" style="color: #A891D6;font-family:"Arial">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
 <p align="center">
@@ -7,7 +8,8 @@
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/c196b282-d759-4aad-991e-e488ff6ddf9c" height="680px"/>
+  <img src="https://github.com/user-attachments/assets/87e6d1f9-ef5d-4d0e-abea-19293a412ae7" height="680px"/>
+
 </div>
 
 ---
