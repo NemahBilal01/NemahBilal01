@@ -15,9 +15,9 @@
 ---
 
 <h3 align="center" style="color: #5C3A5E;">GitHub Stats</h3>
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemahbilal01&theme=default&hide_border=false&background=FFFFFF&ring=5C3A5E&fire=5C3A5E&stroke=5C3A5E&currStreakLabel=FFB2C8" alt="GitHub Streak"/>
-</p>
+</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=jolly&hide_border=false" alt="GitHub Stats" />
 </p>
