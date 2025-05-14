@@ -1,6 +1,7 @@
 <body>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a3af8f3-2216-4c1b-8fd8-212d3eae1a24" width="700" height="600" />
+  <img src="https://github.com/user-attachments/assets/fd673a11-de4f-44f5-8814-ec5b90fd4a47" width="800" height="700" />
+
 </p>
 <h3 align="center" style="color: #A891D6;font-family:"Arial">A Passionate Full-Stack Developer! Craft responsive, user-friendly interfaces with React.js, and Bootstrap. A sharp focus on UI/UX. On the backend, build scalable applications using Laravel and PostgreSQL.</h3>
 <br>
