@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/fd673a11-de4f-44f5-8814-ec5b90fd4a47" width="800" height="650" />
 
 </p>
-<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-5C3A5E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" width="150px" />
 </p>
