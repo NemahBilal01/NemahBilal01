@@ -49,7 +49,7 @@
       <img src="https://github.com/user-attachments/assets/409d5a77-5883-4ceb-858a-654fda5382ab" width="80%" />
     </td>
     <td align="left" width="500">
-      ### 💻 Backend Development with Laravel
+      <h3 style="color:#e6a4d5;">Backend Development with Laravel</h3>
       <p>On the backend, I build robust, scalable applications using Laravel. With features like Eloquent ORM, route management, and API resources, I ensure secure and maintainable backend systems.</p>
     </td>
   </tr>
