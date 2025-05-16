@@ -34,8 +34,7 @@
       <img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="80%" />
     </td>
     <td align="left" width="500">
-      <!--<h3 style="color:#e6a4d5;">Frontend Design with React</h3>-->
-       🌐 Frontend Development with React
+      <h3 style="color:#e6a4d5;">🌐Frontend Design with React</h3>
       <p>I design modern, responsive frontends using React. With its component-based structure and reusable logic, I craft intuitive user interfaces that enhance user experience across all devices.</p>
     </td>
   </tr>
@@ -50,7 +49,7 @@
       <img src="https://github.com/user-attachments/assets/409d5a77-5883-4ceb-858a-654fda5382ab" width="80%" />
     </td>
     <td align="left" width="500">
-      <h3 style="color:#e6a4d5;">Backend Development with Laravel</h3>
+      <h3 style="color:#e6a4d5;">🔧 Backend Development with Laravel</h3>
       <p>On the backend, I build robust, scalable applications using Laravel. With features like Eloquent ORM, route management, and API resources, I ensure secure and maintainable backend systems.</p>
     </td>
   </tr>
@@ -65,7 +64,7 @@
       <img src="https://github.com/user-attachments/assets/b780e0df-4d6c-458c-a88e-63b0cea884e2" width="80%" />
     </td>
     <td align="left" width="500">
-      <h3 style="color:#e6a4d5;">Deployment & Integration</h3>
+      <h3 style="color:#e6a4d5;"> 🚀 Deployment & Integration</h3>
       <p>I handle deployment and integration using tools like GitHub. I ensure seamless transitions from development to production, focusing on reliability and automation.</p>
     </td>
   </tr>
