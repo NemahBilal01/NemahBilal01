@@ -24,23 +24,6 @@
 </p>
 
 <br>
-### 🛠 My Skills
-
-#### 🌐 Frontend Development with React
-<img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="200" align="left" />
-I design modern, responsive frontends using **React**. Its component-based architecture helps me create reusable, elegant UI experiences.
-
-<br clear="left"/>
-
-#### 🔧 Backend Development with Laravel
-<img src="https://github.com/user-attachments/assets/409d5a77-5883-4ceb-858a-654fda5382ab" width="200" align="left" />
-I develop scalable backends using **Laravel**, with features like **Eloquent ORM**, **API Resources**, and **Routing** for clean architecture.
-
-<br clear="left"/>
-
-#### 🚀 Deployment & Integration
-<img src="https://github.com/user-attachments/assets/b780e0df-4d6c-458c-a88e-63b0cea884e2" width="200" align="left" />
-I deploy web apps via **GitHub**, CI/CD tools, and cloud platforms. I value clean workflows, automation, and uptime.
 
 <br clear="left"/><h3 align="center" style="color:#8464a0;">My Skills</h3>
 
@@ -51,7 +34,8 @@ I deploy web apps via **GitHub**, CI/CD tools, and cloud platforms. I value clea
       <img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="80%" />
     </td>
     <td align="left" width="500">
-      <h3 style="color:#e6a4d5;">Frontend Design with React</h3>
+      <!--<h3 style="color:#e6a4d5;">Frontend Design with React</h3>-->
+      #### 🌐 Frontend Development with React
       <p>I design modern, responsive frontends using React. With its component-based structure and reusable logic, I craft intuitive user interfaces that enhance user experience across all devices.</p>
     </td>
   </tr>
