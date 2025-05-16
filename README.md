@@ -35,7 +35,7 @@
     </td>
     <td align="left" width="500">
       <!--<h3 style="color:#e6a4d5;">Frontend Design with React</h3>-->
-      #### 🌐 Frontend Development with React
+       🌐 Frontend Development with React
       <p>I design modern, responsive frontends using React. With its component-based structure and reusable logic, I craft intuitive user interfaces that enhance user experience across all devices.</p>
     </td>
   </tr>
