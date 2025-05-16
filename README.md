@@ -32,7 +32,7 @@
 <br clear="left"/><h3 align="center" style="color:#8464a0;">My Skills</h3>
 
 <!-- Design with React Section -->
-<table align="center" style="border: 1px solid white; border-collapse: collapse;">
+<table align="center" style="border: 1px solid white;">
   <tr>
     <td align="style="width: 300;">
       <img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="80%" />
