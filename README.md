@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Shark-5C3A5E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" width="150px" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-5C3A5E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" style="max-width: 100%; height: auto;" " />
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
