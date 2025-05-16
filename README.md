@@ -24,8 +24,25 @@
 </p>
 
 <br>
+### 🛠 My Skills
 
-<h3 align="center" style="color:#8464a0;">My Skills</h3>
+#### 🌐 Frontend Development with React
+<img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="200" align="left" />
+I design modern, responsive frontends using **React**. Its component-based architecture helps me create reusable, elegant UI experiences.
+
+<br clear="left"/>
+
+#### 🔧 Backend Development with Laravel
+<img src="https://github.com/user-attachments/assets/409d5a77-5883-4ceb-858a-654fda5382ab" width="200" align="left" />
+I develop scalable backends using **Laravel**, with features like **Eloquent ORM**, **API Resources**, and **Routing** for clean architecture.
+
+<br clear="left"/>
+
+#### 🚀 Deployment & Integration
+<img src="https://github.com/user-attachments/assets/b780e0df-4d6c-458c-a88e-63b0cea884e2" width="200" align="left" />
+I deploy web apps via **GitHub**, CI/CD tools, and cloud platforms. I value clean workflows, automation, and uptime.
+
+<br clear="left"/><h3 align="center" style="color:#8464a0;">My Skills</h3>
 
 <!-- Design with React Section -->
 <table align="center" style="border: 1px solid white;">
@@ -86,6 +103,7 @@
 <p align="center">
   <img class="animated-gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FlZmRlcDJhNzdkaDF5czhhczl4bjZ2Mm1peG8wZnRvZ2s3dzYzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Animated GIF" width="300" height="300"/>
 </p>
+
 
 
 </body>
