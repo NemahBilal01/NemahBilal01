@@ -32,12 +32,12 @@
 <br clear="left"/><h3 align="center" style="color:#8464a0;">My Skills</h3>
 
 <!-- Design with React Section -->
-<table align="center" style="max-width: 100%; border: 1px solid white; border-collapse: collapse;">
+<table align="center" style="max-width: 80%; border: 1px solid white; border-collapse: collapse;">
   <tr>
     <td align="style="width: 40%; padding: 8px;">
       <img src="https://github.com/user-attachments/assets/0fc1655a-41d5-4dcc-8197-d2e8b02f8fa3" width="80%" />
     </td>
-    <td align="left" style="width: 40%; padding: 8px;">
+    <td align="left" style="width: 60%; padding: 8px;">
       <h3 style="color:#e6a4d5;margin-top: 0;">🌐Frontend Design with React</h3>
       <p>I design modern, responsive frontends using React. With its component-based structure and reusable logic, I craft intuitive user interfaces that enhance user experience across all devices.</p>
     </td>
