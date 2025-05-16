@@ -14,7 +14,11 @@
 </div>
 
 ---
+<h3 align="center">🔥 GitHub Streak</h3>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemahbilal01&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 <h3 align="center" style="color: #5C3A5E;">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nemahbilal01&show_icons=true&theme=jolly&hide_border=false" alt="GitHub Stats" />
@@ -70,7 +74,7 @@
   </tr>
 </table>
 
-<h3 align="center" style="color: #5C3A5E;">Connect with Me</h3>
+<h3 align="center" style="color: #5C3A5E;">📬 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nameh-bilal/">
     <img src="https://github.com/user-attachments/assets/2b76f0bd-9997-40df-9f03-1d3669bb72be" alt="LinkedIn" height="40" />
